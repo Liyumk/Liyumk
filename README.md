@@ -1,4 +1,4 @@
-Hi 👋 My name is Liyu
+Hi 👋 I am Liyu
 =====================
 
 Frontend engineer
