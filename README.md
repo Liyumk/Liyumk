@@ -43,6 +43,7 @@ I am a Frontend engineer based in Addis Ababa, Bsc in Information Technology fro
 
 ![Liyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=liyumk&show_icons=true&theme=radical)
 
+[![Liyu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=liyumk)](https://github.com/anuraghazra/github-readme-stats)
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/liyumk"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
