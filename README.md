@@ -6,7 +6,7 @@ Frontend engineer
 
 I am a Frontend engineer based in Addis Ababa, Bsc in Information Technology from Addis Ababa Institute of Technology. I have 2+ years of experience in developing, testing, and debugging web and mobile applications.
 
-* 🌍  I'm based in Addis Ababa
+* 🌍  I'm based in Addis Ababa, Ethiopia
 * 🖥️  See my portfolio at [liyume.me](http://liyumk.me)
 * ✉️  You can contact me at [liyuumk@gmail.com](mailto:liyuumk@gmail.com)
 * 🧠  I'm learning Svelte
