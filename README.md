@@ -34,7 +34,6 @@ I am a Frontend engineer based in Addis Ababa, Bsc in Information Technology fro
 
 <a href="http://www.github.com/liyumk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=liyumk&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-[![Liyu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=liyumk&bg_color=1a253c&color=ffffff&line=5c3df5&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Support Me
 
