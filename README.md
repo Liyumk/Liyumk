@@ -35,9 +35,9 @@ I am a Frontend engineer based in Addis Ababa, Bsc in Information Technology fro
 <a href="http://www.github.com/liyumk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=liyumk&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
-### Support Me
+<!-- ### Support Me
 
-<a href="https://www.buymeacoffee.com/liyumk"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/liyumk"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a> -->
 <!---
 Liyumk/Liyumk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
