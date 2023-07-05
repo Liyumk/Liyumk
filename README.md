@@ -7,12 +7,14 @@ Frontend engineer
 I am a Frontend engineer based in Addis Ababa, Bsc in Information Technology from Addis Ababa Institute of Technology. I have 3+ years of experience in developing, testing, and debugging web and mobile applications.
 
 * 🌍  I'm based in Addis Ababa, Ethiopia
+* 👾 Part of Pinely International
+* 💻 MERN Stack Developer
+* 🔝 I’m looking to collaborate on some interesting project
 * 🖥️  See my portfolio at [liyume.me](http://liyumk.me)
 * ✉️  You can contact me at [liyuumk@gmail.com](mailto:liyuumk@gmail.com)
-* 🧠  I'm learning Svelte
+
 
 ### Skills
-
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
