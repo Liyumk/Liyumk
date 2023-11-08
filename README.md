@@ -4,7 +4,7 @@ Hi 👋 I am Liyu
 Frontend engineer
 -----------------
 
-I am a Frontend engineer based in Addis Ababa, Bsc in Information Technology from Addis Ababa Institute of Technology. I have 3+ years of experience in developing, testing, and debugging web and mobile applications.
+I am a Software engineer based in Addis Ababa, Bsc in Information Technology from Addis Ababa Institute of Technology. I have 3+ years of experience in developing, testing, and debugging web and mobile applications.
 
 * 🌍  I'm based in Addis Ababa, Ethiopia
 * 👾  Part of Pinely International
