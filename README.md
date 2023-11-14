@@ -1,7 +1,7 @@
 Hi 👋 I am Liyu
 =====================
 
-Frontend engineer
+Software engineer
 -----------------
 
 I am a Software engineer based in Addis Ababa, Bsc in Information Technology from Addis Ababa Institute of Technology. I have 3+ years of experience in developing, testing, and debugging web and mobile applications.
