@@ -4,8 +4,7 @@ Hi 👋 I am Liyu
 Software engineer
 -----------------
 
-I am a Software engineer based in Addis Ababa, Bsc in Information Technology from Addis Ababa Institute of Technology. I have 3+ years of experience in developing, testing, and debugging web and mobile applications.
-
+I am a Software engineer based in Addis Ababa, Bsc in Information Technology from Addis Ababa Institute of Technology. I enjoy building web and mobile apps.
 * 🌍  I'm based in Addis Ababa, Ethiopia
 * 👾  Part of Pinely International
 * 💻  MERN Stack Developer
