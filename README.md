@@ -8,7 +8,7 @@ I am a Software engineer based in Addis Ababa, Bsc in Information Technology fro
 * 👾  Part of Pinely International
 * 💻  MERN Stack Developer
 * 🔝  I’m looking to collaborate on some interesting project
-* 🖥️  See my portfolio at [liyume.me](http://liyumk.me)
+* 🖥️  See my portfolio at [liyume.dev](http://liyumk.dev)
 * ✉️  You can contact me at [liyuumk@gmail.com](mailto:liyuumk@gmail.com)
 
 
