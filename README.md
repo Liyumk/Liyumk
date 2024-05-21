@@ -4,7 +4,7 @@ Hi 👋 I am Liyu
 Software engineer
 -----------------
 
-I am a Software engineer based in Addis Ababa, Bsc in Information Technology from Addis Ababa Institute of Technology. I enjoy building web and mobile apps. 
+I am a Software engineer based in Addis Ababa, Bsc in Information Technology from Addis Ababa Institute of Technology. I love building stuff. 
 * 💻  MERN Stack Developer
 * 🔝  I’m looking to collaborate on some interesting project
 * 🖥️  See my portfolio at [liyumk.dev](http://liyumk.dev)
