@@ -7,7 +7,6 @@ Software engineer
 I am a Software engineer based in Addis Ababa, Bsc in Information Technology from Addis Ababa Institute of Technology. I love building stuff. 
 * 💻  MERN Stack Developer
 * 🔝  I’m looking to collaborate on some interesting project
-* 🖥️  See my portfolio at [liyumk.dev](http://liyumk.dev)
 * ✉️  You can contact me at [liyuumk@gmail.com](mailto:liyuumk@gmail.com)
 
 
